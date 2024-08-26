@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **html , css , js ,React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saqibi4213](in my github repo)
+- 👨‍💻 All of my projects are available **in my github repo**
 
-- 📫 How to reach me **mosawermh@gmail.com**
+- 📫 How to reach me **[email.com](mosawermh@gmail.com)**
 
 <p align="center">
   
