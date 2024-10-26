@@ -5,7 +5,7 @@
 <br>
 - 🔭 I’m currently working on Studying Web development
 
-- 🌱 I’m currently learning **html , css , JavaScript ,React js, Bootsrap, Thailwand , Nextjs, Nodejs, Expressjs, MangoDB, **
+- 🌱 I’m currently learning **html , css , JavaScript ,React js, Bootsrap, Thailwand , Nextjs, Nodejs, Expressjs, MangoDB**
 
 - 👨‍💻 All of my projects are available **in my github repo**
 
